@@ -76,3 +76,5 @@ Thumbs.db
 *.private
 *.private.meta
 
+.github/
+*.meta
