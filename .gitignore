@@ -78,3 +78,6 @@ Thumbs.db
 
 .github/
 *.meta
+
+# Custom ignores
+Assets/ASSET_REQUIREMENTS.md

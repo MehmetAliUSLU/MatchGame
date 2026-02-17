@@ -2698,7 +2698,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Game Over!
+  m_text: Game Over
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3036,6 +3036,7 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 975036675}
+  - {fileID: 1126525287}
   - {fileID: 30996847}
   - {fileID: 419117819}
   - {fileID: 668966675}
@@ -3046,4 +3047,3 @@ SceneRoots:
   - {fileID: 261071699}
   - {fileID: 1338591191}
   - {fileID: 2060819477}
-  - {fileID: 1126525287}
